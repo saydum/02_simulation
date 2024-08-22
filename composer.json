@@ -1,0 +1,17 @@
+{
+    "name": "saydumgamzabekovich/02_simulation",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Saydum",
+            "email": "saydum.it5@gmail.com"
+        }
+    ],
+    "require": {
+        "php-ds/php-ds": "^1.5"
+    }
+}
